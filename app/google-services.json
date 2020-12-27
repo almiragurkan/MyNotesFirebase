@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068260048175",
+    "project_id": "my-notes-firebase-975cc",
+    "storage_bucket": "my-notes-firebase-975cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068260048175:android:7cffe0446a89d3b4faf5da",
+        "android_client_info": {
+          "package_name": "com.example.almira.mynotesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068260048175-it5mhgursni3pfltevej0sk3baibf4j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnZWzDIF-A67Z5al3pXWKsyYpjzqyudo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068260048175-it5mhgursni3pfltevej0sk3baibf4j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
